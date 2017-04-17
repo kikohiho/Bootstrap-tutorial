@@ -21,7 +21,7 @@ html, body {
 }
 
 #headbgimage {
-	background-image: url("Xamarin-logo.svg.png");
+	background-image: url("hackaton-edit.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -29,4 +29,18 @@ html, body {
 box:hover {
 	  background: -webkit-gradient(radial, 100 75, 100, 100 75, 0, from(rgba(0,0,0,.7)), to(rgba(0,0,0,.4)));
 
+}
+
+.division {
+	text-align: center;
+	border: 2px solid black;
+}
+
+#centertext {
+	margin: auto;
+	
+}
+
+h1 {
+	color: white;
 }
